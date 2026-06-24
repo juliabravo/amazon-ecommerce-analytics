@@ -15,7 +15,7 @@ SELECT Category, SUM(Qty) AS number_sold, SUM(Amount) AS gross_revenue
 FROM `ecommerce_sales.amazon_raw_data`
 WHERE status NOT IN ('Cancelled', 'Pending')
 GROUP BY Category;
-
+```
 ## Reporting Dashboards
 
 ### Cloud Data Pipeline (Big Query Console)
