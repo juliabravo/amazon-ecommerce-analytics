@@ -18,7 +18,7 @@ GROUP BY Category;
 ```
 ## Reporting Dashboards
 
-### Cloud Data Pipeline (Big Query Console)
+### Cloud Data Pipeline (BigQuery Console)
 ![BigQuery Console](big_query_script.png)
 
 ### Executive Revenue Summary (Excel)
